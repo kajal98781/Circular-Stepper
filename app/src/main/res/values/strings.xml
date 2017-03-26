@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoCircularStepper</string>
+    <string name="earn">Earn</string>
+    <string name="redeem">Redeem</string>
+</resources>
